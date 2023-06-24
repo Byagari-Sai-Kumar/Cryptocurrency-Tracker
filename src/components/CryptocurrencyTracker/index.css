@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.bgContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

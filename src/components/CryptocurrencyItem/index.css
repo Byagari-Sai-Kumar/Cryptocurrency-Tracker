@@ -1,0 +1,34 @@
+.cryptoList {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cryptoImageContainer {
+  width: 50%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.cryptoCoinImage {
+  height: 25px;
+  padding-right: 10px;
+}
+
+.cryptoInfo {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #ffffff;
+  margin: 5px;
+}
+
+.cryptoValueContainer {
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
